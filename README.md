@@ -7,5 +7,7 @@ Strong focus on Image Manipulation and Role Management
 !settitle @user @role
 !champ
 ```
+
 ---
-###The most electrifying bot in all of VOIP Entertainment
+
+####The most electrifying bot in all of VOIP Entertainment
