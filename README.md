@@ -10,4 +10,4 @@ Strong focus on Image Manipulation and Role Management
 
 ---
 
-####The most electrifying bot in all of VOIP Entertainment
+#### The most electrifying bot in all of VOIP Entertainment
