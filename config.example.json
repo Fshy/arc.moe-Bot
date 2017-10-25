@@ -1,0 +1,11 @@
+{
+  "token":    "DISCORD_TOKEN",
+  "name":     "arc.moe",
+  "prefix":  "!",
+  "hexColour":"#59FFBD",
+  "title": {
+    "id" : "ROLE_ID",
+    "full_name" : "WWE Videogaming Championship",
+    "champ_title": "WWE Videogaming Champion"
+  }
+}
