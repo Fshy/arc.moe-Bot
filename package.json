@@ -1,6 +1,6 @@
 {
-  "name": "arc.moe-bot",
-  "version": "1.0.0",
+  "name": "arc.moe-shitposting",
+  "version": "1.0.1",
   "description": "",
   "main": "app.js",
   "scripts": {
@@ -13,9 +13,9 @@
   "author": "Fshy <fshy@arc.moe> (https://arc.moe/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Fshy/arc.moe-Bot/issues"
+    "url": "https://github.com/Fshy/arc.moe-shitposting/issues"
   },
-  "homepage": "https://github.com/Fshy/arc.moe-Bot#readme",
+  "homepage": "https://github.com/Fshy/arc.moe-shitposting#readme",
   "dependencies": {
     "discord.js": "^11.2.1",
     "imgur": "^0.2.1",
