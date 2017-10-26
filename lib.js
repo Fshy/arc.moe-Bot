@@ -9,6 +9,12 @@ global.embedMsg = function (text,message) {
 
 class Lib {
 
+  getId(message){
+    if (message.mentions.roles.size!==1)
+      return message.channel.send(embedMsg(`**ERROR**: Mention the role in the command`,message))
+    return message.channel.send(embedMsg(`\`\`\`${message.mentions.roles.first().name} Role ID: ${message.mentions.roles.first().id}\`\`\``,message))
+  }
+
   setTitle(message){
     if (message.mentions.members.size!==1)
       return message.channel.send(embedMsg(`**ERROR**: Mention one (1) user to promote as ${config.title.champ_title}`,message))

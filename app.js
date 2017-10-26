@@ -22,6 +22,7 @@ client.on('message', (message)=>{
   switch (command.toLowerCase()) {
     case 'settitle':    return lib.setTitle(message);
     case 'champ':       return lib.champ(message);
+    case 'id':          return lib.getId(message);
   }
 
 });
